@@ -9,15 +9,12 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 . Tutorials and Examples: Step-by-step tutorials and code examples to guide you through the development process.
 
 ### Screeshot
-<img src="https://i.imgur.com/f4Mt6hA.png" width="300"> 
-<img src="https://i.imgur.com/DAZDQGX.png" width="300">
-<img src="https://i.imgur.com/ComMcQE.png" width="300">
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
         <p>Screenshots home</p>
-        <img src="images/sep1.jpeg" alt="Top" width="90%"/>
-        <img src="images/ml.jpeg" alt="Top" width="90%"/>
-        <img src="images/not2.jpeg" alt="Top" width="90%"/>
+        <img src="assets/images/sep1.jpeg" alt="Top" width="90%"/>
+        <img src="assets/images/ml.jpeg" alt="Top" width="90%"/>
+        <img src="assets/images/not2.jpeg" alt="Top" width="90%"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Sepsis</p>
