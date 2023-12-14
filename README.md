@@ -13,7 +13,7 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
     <div style="flex: 33.33%; text-align: center;">
         <p>Screenshots home</p>
         <img src="assets/images/sep1.jpeg" alt="Top" width="300"/>
-        <img src="assets/images/ml.jpeg" alt="Top" width="300"/>
+        <img src="assets/images/ml2.jpeg" alt="Top" width="300"/>
         <img src="assets/images/not2.jpeg" alt="Top" width="300"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
