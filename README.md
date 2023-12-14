@@ -10,12 +10,12 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 
 ### Screeshot
 <div style="display: flex; align-items: center;">
-    <div style="flex: 33.33%; text-align: center;">
+<!--     <div style="flex: 33.33%; text-align: center;"> -->
         <p>Screenshots home</p>
         <img src="assets/images/sep1.jpeg" alt="Top" width="300"/>
         <img src="assets/images/ml2.jpeg" alt="Top" width="300"/>
         <img src="assets/images/not2.jpeg" alt="Top" width="300"/>
-    </div>
+<!--     </div> -->
     <div style="flex: 33.33%; text-align: center;">
         <p>Sepsis</p>
         <img src="assets/images/form2.jpeg" alt="Middle" width="300"/>
