@@ -8,6 +8,11 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 . Machine Learning Model: Integrate a machine learning model into your application for smart and personalized user experiences.
 . Tutorials and Examples: Step-by-step tutorials and code examples to guide you through the development process.
 
+### Screeshot
+<img src="https://i.imgur.com/f4Mt6hA.png" width="300"> 
+<img src="https://i.imgur.com/DAZDQGX.png" width="300">
+<img src="https://i.imgur.com/ComMcQE.png" width="300">
+
 ## How to Use This Repository:
 
 - Clone this repository to your local machine.
