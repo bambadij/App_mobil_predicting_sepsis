@@ -1,4 +1,4 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React, { useState} from 'react';
 import {
   View,
   Text,
@@ -15,7 +15,6 @@ import Toast from 'react-native-toast-message';
 const Sepsis = ({navigation}) => {
 
   const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(false);
   const [PR, setPR] =useState('');
   const [PRG,setPRG] =useState('');
   const [PL,setPL] =useState('');
@@ -58,11 +57,10 @@ const Sepsis = ({navigation}) => {
     setIsLoading(true);
     try {
       await
-
-        axios.post(`https://iameberedavid-sepsis-prediction-api-docker-deployment.hf.space/classify`,data,{
+          // Replace http://127.0.0.1:8000/predict with your api online
+        axios.post(`http://127.0.0.1:8000/predict`,data,{
           headers: {
             'Content-Type': 'application/json',
-            // Add other headers as needed for your FastAPI application
           },
            
         })
@@ -106,11 +104,6 @@ const Sepsis = ({navigation}) => {
   return (
     <ScrollView style={styles.scroll}>
       <View style={styles.container}>
-        {error && (
-          <Text style={{...styles.error, marginTop: 20}}>
-            Le champs nom est genre obligatoire
-          </Text>
-        )}
         <TextInput
           style={styles.input}
           name="PRG"
