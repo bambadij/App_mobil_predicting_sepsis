@@ -29,13 +29,20 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 
 ### How to Use This Repository:
 
+
 - Clone this repository to your local machine.:
+  
           git clone https://github.com/bambadij/App_mobil_predicting_sepsis.git
           cd App_mobil_predicting_sepsis
+  
 - npm install.
+  
       npm install
+  
 - npx expo start
+  
       npx expo start
+  
 - Implement the FastAPI backend and integrate the machine learning model for enhanced functionality.
 Explore code examples for an in-depth understanding of each development phase.
 
