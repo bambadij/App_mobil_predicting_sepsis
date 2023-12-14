@@ -12,18 +12,18 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 <div style="display: flex; align-items: center;">
     <div style="flex: 33.33%; text-align: center;">
         <p>Screenshots home</p>
-        <img src="assets/images/sep1.jpeg" alt="Top" width="90%"/>
-        <img src="assets/images/ml.jpeg" alt="Top" width="90%"/>
-        <img src="assets/images/not2.jpeg" alt="Top" width="90%"/>
+        <img src="assets/images/sep1.jpeg" alt="Top" width="300"/>
+        <img src="assets/images/ml.jpeg" alt="Top" width="300"/>
+        <img src="assets/images/not2.jpeg" alt="Top" width="300"/>
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Sepsis</p>
-        <img src="images/form2.jpeg" alt="Middle" width="90%"/>
+        <img src="assets/images/form2.jpeg" alt="Middle" width="300"/>
         </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Test Prediction</p>
-        <img src="images/posi3.jpeg" alt="Middle" width="90%"/>
-        <img src="images/neg3.jpeg" alt="Middle" width="90%"/>
+        <img src="assets/images/posi3.jpeg" alt="Middle" width="300"/>
+        <img src="assets/images/neg3.jpeg" alt="Middle" width="300"/>
         </div>
 </div>
 ## How to Use This Repository:
