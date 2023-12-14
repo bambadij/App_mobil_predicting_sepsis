@@ -9,7 +9,7 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
 . Tutorials and Examples: Step-by-step tutorials and code examples to guide you through the development process.
 
 ### Screeshot
-<div style="display: flex; align-items: center;">
+<div style="display: flex; ">
 <!--     <div style="flex: 33.33%; text-align: center;"> -->
         <p>Screenshots home</p>
         <img src="assets/images/sep1.jpeg" alt="Top" width="300"/>
