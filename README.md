@@ -26,7 +26,8 @@ Harness the capabilities of a machine learning model to enhance your mobile appl
         <img src="assets/images/neg3.jpeg" alt="Middle" width="300"/>
         </div>
 </div>
-## How to Use This Repository:
+
+### How to Use This Repository:
 
 - Clone this repository to your local machine.
 - npm install.
